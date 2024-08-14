@@ -1,0 +1,5 @@
+htmltools
+pandas
+plotly
+shinywidgets
+shiny
